@@ -1,0 +1,10 @@
+{
+
+
+  "ConnectionString": {
+
+    "DefaultConnection": "Server=DESKTOP-MVOD94J\\SQLEXPRESS;Database=University;TrustServerCertificate=True;Trusted_Connection=True;"
+  }
+
+}
+  
