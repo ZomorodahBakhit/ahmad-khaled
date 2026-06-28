@@ -2,7 +2,6 @@
 using System;
 using University.Data.Context;
 using University.Data.Entities;
-using University.Data.IRepositories;
 
 namespace University.Data.Repositories
 {

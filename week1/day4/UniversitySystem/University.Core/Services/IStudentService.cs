@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using University.Core.DTOs;
 
-namespace University.Core.Iservices
+namespace University.Core.Services
 {
     public interface IStudentService
     {

@@ -4,9 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using University.Core.DTOs;
-using University.Core.Iservices;
 using University.Data.Entities;
-using University.Data.IRepositories;
 using University.Data.Repositories;
 
 namespace University.Core.Services

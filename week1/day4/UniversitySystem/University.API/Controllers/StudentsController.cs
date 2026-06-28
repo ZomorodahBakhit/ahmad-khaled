@@ -1,7 +1,7 @@
 ﻿using AutoWrapper.Wrappers;
 using Microsoft.AspNetCore.Mvc;
 using University.Core.DTOs;
-using University.Core.Iservices;
+using University.Core.Services;
 
 namespace University.API.Controllers
 {

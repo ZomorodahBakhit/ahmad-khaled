@@ -1,6 +1,6 @@
 ﻿using University.Data.Entities;
 
-namespace University.Data.IRepositories
+namespace University.Data.Repositories
 {
     public interface IStudentRepository
     {

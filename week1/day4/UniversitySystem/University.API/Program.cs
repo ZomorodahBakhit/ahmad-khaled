@@ -1,5 +1,6 @@
 using Autofac;
 using Autofac.Extensions.DependencyInjection;
+using AutoWrapper;
 using Microsoft.EntityFrameworkCore;
 using University.Core.Modules;
 using University.Data.Context;
@@ -36,6 +37,8 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 
 app.UseAuthorization();
+
+app.UseApiResponseAndExceptionWrapper();
 
 app.MapControllers();
 
